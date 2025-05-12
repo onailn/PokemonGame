@@ -1,0 +1,11 @@
+# Pokémon Game
+
+This is a simple text-based Pokémon game written in Python. It features an introduction, starter selection, a battle with a rival, and more.
+
+## How to Play
+
+1. Clone or download the repository.
+2. Run the game by executing the Python file `pokemon_game.py`.
+3. Follow the on-screen instructions to create your character and start the game.
+
+
